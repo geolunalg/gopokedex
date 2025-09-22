@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gopokedex/pokeapi"
+	"gopokedex/internal/pokeapi"
 	"time"
 )
 

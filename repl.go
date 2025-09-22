@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"gopokedex/pokeapi"
+	"gopokedex/internal/pokeapi"
 	"os"
 	"strings"
 )
